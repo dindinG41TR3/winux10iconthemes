@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Winux10
+Comment=Winux10 Based Mint-Y-Darker A dark flat theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Winux10
+MetacityTheme=Winux10
+IconTheme=Winux10
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
